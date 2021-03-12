@@ -7,7 +7,7 @@
                 "ClusterSettings": [
                     {
                         "Name": "containerInsights",
-                        "Value": "enabled"
+                        "Value": "disabled"
                     }
                 ],
                 "Tags": [
