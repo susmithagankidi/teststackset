@@ -31,13 +31,14 @@
                      "Action": [ "sts:AssumeRole" ]
                   } ]
                },
-               "Path": "/"
+               "Path": "/",
+               "RoleName" : "test-custom"
             }
          },
          "RolePolicies": {
             "Type": "AWS::IAM::Policy",
             "Properties": {
-               "PolicyName": "rooooot",
+               "PolicyName": "root",
                "PolicyDocument": {
                   "Version" : "2012-10-17",
                   "Statement": [ {
