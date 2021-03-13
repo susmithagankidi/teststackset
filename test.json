@@ -37,7 +37,7 @@
          "RolePolicies": {
             "Type": "AWS::IAM::Policy",
             "Properties": {
-               "PolicyName": "root",
+               "PolicyName": "rooooot",
                "PolicyDocument": {
                   "Version" : "2012-10-17",
                   "Statement": [ {
