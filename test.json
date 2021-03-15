@@ -32,7 +32,7 @@
                   } ]
                },
                "Path": "/",
-               "RoleName" : "test-custom"
+               "RoleName" : "test-custom-2"
             }
          },
          "RolePolicies": {
