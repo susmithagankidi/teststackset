@@ -1,5 +1,5 @@
 
-  {
+  [{
     "ParameterKey": "TrustedAccounts",
     "ParameterValue": "[1234567,23456384]"
-  }
+  }]
