@@ -34,7 +34,7 @@
                   "Statement": [ {
                      "Effect": "Allow",
                      "Principal":  { 
-                         "AWS": [ { "Ref" : "logicalName" }]},
+                         "AWS": [ { "Ref" : "TrustedAccounts" }]},
                      "Action": [ "sts:AssumeRole" ]
                   } ]
                },
