@@ -11,7 +11,7 @@
         "ECSCluster": {
             "Type": "AWS::ECS::Cluster",
             "Properties": {
-                "ClusterName": "MyCluster",
+                "ClusterName": "MyCluster234",
                 "ClusterSettings": [
                     {
                         "Name": "containerInsights",
