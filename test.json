@@ -39,7 +39,6 @@
                   } ]
                },
                "Path": "/",
-               "RoleName" : "test-custom-2"
             }
          },
          "RolePolicies": {
